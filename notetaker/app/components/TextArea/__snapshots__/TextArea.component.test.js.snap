@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Area renders correctly 1`] = `
+<TextInput
+  allowFontScaling={true}
+  multiline={true}
+  onChangeText={[Function]}
+  style={
+    Array [
+      Object {
+        "borderColor": "gray",
+        "borderWidth": 1,
+        "height": 100,
+        "width": 200,
+      },
+      undefined,
+    ]
+  }
+  underlineColorAndroid="transparent"
+  value="hello from non-os specific file"
+/>
+`;
